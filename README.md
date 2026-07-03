@@ -18,13 +18,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thankgod-Abugu&theme=radical&hide_border=true" />
-</p>
-
-### 📫 Let's Connect
+### 📫 Contacts
 
 <p>
   <a href="https://linkedin.com/in/thankgod-abugu" target="_blank">
