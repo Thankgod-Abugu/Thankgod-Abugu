@@ -1,6 +1,6 @@
 <h1>Hey, I'm Thankgod 👋</h1>
 
-### 🌱 About Me
+### 👨🏻‍💼 About Me
 
 - 💻 Web Developer
 - 🎓 Computer Science student
@@ -38,6 +38,6 @@
   </a>
 </p>
 
-<p>
-  <em>"Still exploring, learning, shipping." 🚀</em>
-</p>
+<h3>
+  <em>"building, learning and shipping..." 🚀</em>
+</h3>
