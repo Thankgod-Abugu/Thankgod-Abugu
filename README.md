@@ -5,7 +5,7 @@
 - 💻 Web Developer
 - 🎓 Computer Science student
 - 🛠️ Building one bug fix at a time
-- 👨‍💻 Open to collaborating on projects and hackathons
+- 👨‍💻 Open to collaborating on projects
 
 ### 🛠️ Tech Stack
 
