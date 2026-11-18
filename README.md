@@ -3,7 +3,7 @@
 ### 👨🏻‍💼 About Me
 
 - 💻 Web Developer
-- 🎓 Computer Science graduate
+- 🎓 Computer Science Graduate
 - 🛠️ Building one bug fix at a time
 - 👨‍💻 Open to collaborating on projects
 
